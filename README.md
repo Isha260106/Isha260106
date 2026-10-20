@@ -113,7 +113,7 @@ A website for a technical club, built to present club information and activities
 If you're interested in software development, AI, cybersecurity, or collaborative projects, feel free to connect!
 
 - **GitHub:** [@Isha260106](https://github.com/Isha260106)
-- **LinkedIn:** [Add your LinkedIn profile]([(https://www.linkedin.com/in/isha-prabhu-6927a9322)])
+- **LinkedIn:** [@IshaPrabhu]((https://www.linkedin.com/in/isha-prabhu-6927a9322))
 - **Email:** `ishaprabhu2006@gmail.com` <!-- TODO: replace with your professional email -->
 
 <div align="center">
